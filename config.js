@@ -1,11 +1,11 @@
 window.BOARD_CFG = {
   NAME: "BILLBOARD",
   TICKER: "BOARD",
-  CA: "",
+  CA: "9ij74jspszASQbKzv79wrieVbRAtaFriNbvXcZ3Spump",
   CHAIN: "solana",
   PAD: "pump.fun",
   PAIR: "",
-  X: "",
+  X: "https://x.com/BILLBOARDfees",
   BUY: "",
   CHART: "",
   // public wallet that receives the pump.fun creator fees
